@@ -129,6 +129,23 @@ hr {
   text-align: center;
 }
 
+.payments-btn {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background: #800080;
+  color: #fff;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+  border: 2px solid #800080;
+}
+
+.payments-btn:hover {
+  background: #663399;
+  border-color: #663399;
+  color: #fff;
+}
+
 footer {
   margin-top: 2rem;
   font-family: "Times New Roman", Times, serif;
