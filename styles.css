@@ -138,6 +138,7 @@ hr {
   font-family: "Times New Roman", Times, serif;
   font-size: 1.1rem;
   border: 2px solid #800080;
+  border-radius: 8px;
 }
 
 .payments-btn:hover {
